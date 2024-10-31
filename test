@@ -1,0 +1,48 @@
+[33mcommit 0ce212c212e2669521454040b58fd094f87faea8[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: morty <mparkook@yahoo.co.uk>
+Date:   Thu Oct 31 18:20:30 2024 +0000
+
+    modified chapter 1
+
+[33mcommit 7ca5ba7fb69dac4e9b4f00319eaf5c5df7d6764c[m
+Author: morty <mparkook@yahoo.co.uk>
+Date:   Thu Oct 31 18:16:08 2024 +0000
+
+    add chapter 5
+
+[33mcommit 2e992d2628fe3993a5fe1750a73c2072d2edc2b0[m
+Author: morty <mparkook@yahoo.co.uk>
+Date:   Thu Oct 31 18:09:13 2024 +0000
+
+    chapter4 test
+
+[33mcommit 7f8545eb0f1750d55eebbd8a98ebc21e8196e4c8[m[33m ([m[1;31morigin/main[m[33m)[m
+Merge: 8f9e344 68da222
+Author: morty <mparkook@yahoo.co.uk>
+Date:   Mon Oct 28 19:07:53 2024 +0000
+
+    Merge branch 'alien-plot'
+
+[33mcommit 8f9e3442823787f50b884eef24abe065963a329f[m
+Author: morty <mparkook@yahoo.co.uk>
+Date:   Mon Oct 28 18:52:57 2024 +0000
+
+    add chapter 4
+
+[33mcommit 68da2221b381dbac329bf34c8810d3410178ff63[m[33m ([m[1;32malien-plot[m[33m)[m
+Author: morty <mparkook@yahoo.co.uk>
+Date:   Mon Oct 28 18:45:10 2024 +0000
+
+    modify chapter 1 and 2 to have alien theme
+
+[33mcommit ba806611eba4f486ba39b3e466fd6bba9d083dc4[m
+Author: morty <mparkook@yahoo.co.uk>
+Date:   Sat Oct 26 19:29:43 2024 +0100
+
+    Compelete Chapter 2 and 3
+
+[33mcommit 7159f4d536b71ec09b9dbb91d61a8a3ffc8d87ca[m
+Author: morty <mparkook@yahoo.co.uk>
+Date:   Fri Oct 25 20:19:37 2024 +0100
+
+    Complete Chapter 1
