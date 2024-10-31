@@ -1,0 +1,1 @@
+# Random Module: random.random() always generates from 0 to 1, we can multiply it
